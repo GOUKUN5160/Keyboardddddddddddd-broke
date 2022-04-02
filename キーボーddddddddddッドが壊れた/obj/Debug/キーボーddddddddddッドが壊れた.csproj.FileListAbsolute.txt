@@ -1,0 +1,9 @@
+c:\users\gouic\documents\visual studio 2015\Projects\キーボーddddddddddッドが壊れた\キーボーddddddddddッドが壊れた\bin\Debug\キーボーddddddddddッドが壊れた.exe.config
+c:\users\gouic\documents\visual studio 2015\Projects\キーボーddddddddddッドが壊れた\キーボーddddddddddッドが壊れた\bin\Debug\キーボーddddddddddッドが壊れた.exe
+c:\users\gouic\documents\visual studio 2015\Projects\キーボーddddddddddッドが壊れた\キーボーddddddddddッドが壊れた\bin\Debug\キーボーddddddddddッドが壊れた.pdb
+c:\users\gouic\documents\visual studio 2015\Projects\キーボーddddddddddッドが壊れた\キーボーddddddddddッドが壊れた\obj\Debug\キーボーddddddddddッドが壊れた.csprojResolveAssemblyReference.cache
+c:\users\gouic\documents\visual studio 2015\Projects\キーボーddddddddddッドが壊れた\キーボーddddddddddッドが壊れた\obj\Debug\キーボーddddddddddッドが壊れた.Properties.Resources.resources
+c:\users\gouic\documents\visual studio 2015\Projects\キーボーddddddddddッドが壊れた\キーボーddddddddddッドが壊れた\obj\Debug\キーボーddddddddddッドが壊れた.csproj.GenerateResource.Cache
+c:\users\gouic\documents\visual studio 2015\Projects\キーボーddddddddddッドが壊れた\キーボーddddddddddッドが壊れた\obj\Debug\キーボーddddddddddッドが壊れた.exe
+c:\users\gouic\documents\visual studio 2015\Projects\キーボーddddddddddッドが壊れた\キーボーddddddddddッドが壊れた\obj\Debug\キーボーddddddddddッドが壊れた.pdb
+c:\users\gouic\documents\visual studio 2015\Projects\キーボーddddddddddッドが壊れた\キーボーddddddddddッドが壊れた\obj\Debug\キーボーddddddddddッドが壊れた.Form1.resources
